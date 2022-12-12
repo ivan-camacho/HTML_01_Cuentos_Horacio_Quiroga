@@ -1,0 +1,15 @@
+body{
+    font-family: monospace;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-indent: 2.5em;
+    font-size: 1.25em;
+    padding: 0.5em 4rem;
+    margin: 0;
+}
+p.volver{
+    text-align: center;
+}
